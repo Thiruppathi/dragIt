@@ -1,0 +1,30 @@
+{
+  "name": "dragIt",
+  "version": "0.0.0",
+  "authors": [
+    "thiru <thiru.androider@gmail.com>"
+  ],
+  "description": "RxJS - Mouse Event Based Simple Game",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "rxjs",
+    "jhonny",
+    "five",
+    "arduino",
+    "mousedrag",
+    "game"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs": "~2.5.2"
+  }
+}
