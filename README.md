@@ -37,7 +37,7 @@ When the ball reaches the target, Success Flag is set to True and Big LED(9) tur
 
 Here is the fritzing
 
-![fritzing-dragIt](http://i.imgur.com/oGW1Efq.png)
+![fritzing-dragIt](http://i.imgur.com/oGW1Efq.png =400x600)
 
 
 
