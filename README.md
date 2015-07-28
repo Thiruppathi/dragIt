@@ -35,6 +35,10 @@ Jhonny Five Module polls Firebase, when the lifeCount reaches 0, the led(13) is 
 
 When the ball reaches the target, Success Flag is set to True and Big LED(9) turns on.
 
+Here is the fritzing
+
+![fritzing-dragIt](http://i.imgur.com/oGW1Efq.png)
+
 
 
 
