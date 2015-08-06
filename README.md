@@ -7,13 +7,7 @@ This is a simple demo game using RxJs. The idea is to generate Event Streams of 
 
 ## How To Install
 
-Check out the project
-
-````
-bower install
-````
-
-Open the index.html
+Check out the project. Open the index.html
 
 ## How To Play
 
